@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #89CFF0, #00BFFF); /* Bluish water color gradient */
+    background: linear-gradient(135deg,  #4fa5be, #bc6756); /* Bluish water color gradient */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    background-color: #ffffff;
+    background: linear-gradient(135deg, #4fa5be, #bc6756);
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
