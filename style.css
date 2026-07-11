@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg,  #4fa5be, #bc6756); /* Bluish water color gradient */
+    background: linear-gradient(135deg, #0defa0, #4fa1c7); /* Bluish water color gradient */
     display: flex;
     justify-content: center;
     align-items: center;
