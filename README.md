@@ -7,7 +7,7 @@ A minimalist and intuitive To-Do List application designed to help users manage 
 Experience the To-Do List in action: [View Live Demo Here](https://to-do-list-g29l.onrender.com/)
 
 ## Screenshot
-    C:\Users\NANDAN NAYAK\Desktop\programming\to-do list\assets\todo-app screenshots.png
+    C:\Users\NANDAN NAYAK\Desktop\programming\to-do list\assets\image.png
 
 ## Features
 
